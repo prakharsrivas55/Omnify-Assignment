@@ -1,0 +1,49 @@
+Test Scenario 1: Verify the creation of a new yoga class with all details
+Test Cases:
+
+Verify that the admin user is able to login to the application.
+Verify that the admin user is able to navigate to the create class page.
+Verify that the admin user is able to enter a valid class title,description,start date and time and end date and time.
+Verify that the admin user is able to select a valid class color.
+Verify that the admin user is able to upload a valid class image.
+Verify that the admin user is able to select a valid class location (Online/Offline), trainer for the class, service type (Free/Paid).
+Verify that the admin user is able to enter a valid booking window (before X days).
+Verify that the admin user is able to save the new class successfully.
+
+Test Scenario 2: Verify the booking of a paid yoga class
+Test Cases:
+
+Verify that the end customer is able to navigate to the yoga class page.
+Verify that the end customer is able to select a paid yoga class.
+Verify that the end customer is able to enter valid payment details.
+Verify that the end customer is able to submit the payment successfully.
+Verify that the end customer is able to receive a confirmation message after the payment is successful.
+Verify that the end customer is able to view the booked class in their account.
+
+Test Scenario 3: Verify the booking of a free yoga class
+Test Cases:
+
+Verify that the end customer is able to navigate to the yoga class page.
+Verify that the end customer is able to select a free yoga class.
+Verify that the end customer is able to submit the booking successfully.
+Verify that the end customer is able to receive a confirmation message after the booking is successful.
+Verify that the end customer is able to view the booked class in their account.
+
+Test Scenario 4: Verify the editing of an existing yoga class
+Test Cases:
+
+Verify that the admin user is able to login to the application.
+Verify that the admin user is able to navigate to the edit class page.
+Verify that the admin user is able to select an existing class to edit.
+Verify that the admin user is able to modify the class details.
+Verify that the admin user is able to save the changes successfully.
+
+Test Scenario 5: Verify the cancellation of a booked yoga class
+Test Cases:
+
+Verify that the end customer is able to login to their account.
+Verify that the end customer is able to navigate to the booked classes page.
+Verify that the end customer is able to select a booked class to cancel.
+Verify that the end customer is able to submit the cancellation successfully.
+Verify that the end customer is able to receive a confirmation message after the cancellation is successful.
+Verify that the cancelled class is removed from the end customer's account.
